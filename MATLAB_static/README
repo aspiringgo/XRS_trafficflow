@@ -1,4 +1,3 @@
-# XRS_trafficflow
-This is a project working on XRS method applied to traffic flow field. 
+Use XRS method to traffic flow field. 
 Static simulation data from VISSIM were utilized in XRS_.m files to fit a surface using matlab.
 Dynamical features from NGSIM project were extracted in Report_.m files.
